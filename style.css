@@ -105,13 +105,13 @@ h1 {
 @media (max-width: 400px) {
   h1 {
     font-size: 2rem;
-    margin-top: 30px;
+    margin-top: 40px;
   }
   .info {
-    margin-top: 5px;
-    font-size: 8px;
+    margin-top: 8px;
+    font-size: 10px;
   }
   .info p {
-    margin-top: 8px;
+    margin-top: 10px;
   }
 }
