@@ -3,7 +3,6 @@ const btn = document.querySelector(".btn");
 
 btn.addEventListener("click", async () => {
   const cityName = cityInput.value;
-  console.log("butone tıklandı", cityName);
   await getData(cityName);
 });
 
